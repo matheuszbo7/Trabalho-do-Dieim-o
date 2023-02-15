@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+}
+h2{
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+}
+a{
+    color: aliceblue;
+    margin-left: 880px;
+    font-size: 30px;
+}
+img{
+    margin-left: 500px; 
+}
+h3{
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+}
+#art{
+    color: aliceblue;
+    font-size: 25px;
+}
+#top3{
+    color: aliceblue;
+    font-size: 35px;
+    text-decoration: underline;
+}
